@@ -24,8 +24,10 @@ Here are some ideas to get you started:
  <details> 
 
 <summary>About Me</summary>
-     
+
+<span>     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeyun1151&show_icons=true&theme=radical)
+</span>
 </details>  
 
 <!-- Footer banner -->
