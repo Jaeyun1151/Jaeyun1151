@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 ## OBJECTIVE
 Web programming, Mobile programming, Game programming     
 
+## EDUCATION
+Bachelor Degree of computer engineering ```(09/2024 ~)``` (SKHU, Seoul)   
+Bachelor Degree of software engineering ```(09/2024 ~)``` (SKHU, Seoul) 
 
 </details>  
 
