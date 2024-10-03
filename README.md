@@ -1,19 +1,5 @@
 ## :D
 
-<!--
-**Jaeyun1151/Jaeyun1151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
 <!-- Header banner -->
@@ -48,6 +34,9 @@ Bachelor Degree of software engineering ```(09/2024 ~)``` (SKHU, Seoul)
 </span>
 <span>
     <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Java-white?style=plastic&logo=Java&logoColor=black"/>
 </span>
 
 </div>
