@@ -33,6 +33,23 @@ Web programming, Mobile programming, Game programming
 Bachelor Degree of computer engineering ```(09/2024 ~)``` (SKHU, Seoul)   
 Bachelor Degree of software engineering ```(09/2024 ~)``` (SKHU, Seoul) 
 
+## ADDITIONAL SKILLS
+<span>
+    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
+</span>
+
 </details>  
 
 
