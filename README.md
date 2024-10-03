@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>About Me</summary>
-
+-
 </summary>
 
 <footer>
