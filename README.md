@@ -67,12 +67,7 @@ Bachelor Degree of software engineering ```(09/2024 ~)``` (SKHU, Seoul)
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaeyun1151&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<!-- My snake -->
-<img src="https://github.com/Jaeyun1151/Jaeyun1151/blob/output/mysnake.svg" width="100%">
 
-<br><br>
-
-<br><br>
  
 
 <!-- Footer banner -->
