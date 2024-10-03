@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 
  <details> 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeyun1151&show_icons=true&theme=radical)
+
+
 <summary>About Me</summary>
 
-<span>     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeyun1151&show_icons=true&theme=radical)
-</span>
+     
+
+
 </details>  
 
 <!-- Footer banner -->
