@@ -68,7 +68,9 @@ Bachelor Degree of software engineering ```(09/2024 ~)``` (SKHU, Seoul)
 </a>
 
 <!-- My snake -->
-<img src="https://github.com/Jaeyun1151/junia3/blob/output/mysnake.svg" width="100%">
+<img src="https://github.com/Jaeyun1151/Jaeyun1151/blob/output/mysnake.svg" width="100%">
+
+<br><br>
 
 <br><br>
  
