@@ -50,6 +50,9 @@ Bachelor Degree of software engineering ```(09/2024 ~)``` (SKHU, Seoul)
     <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
 </span>
 
+</div>
+</div>
+
 </details>  
 
 
