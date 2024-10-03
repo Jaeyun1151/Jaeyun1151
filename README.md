@@ -22,13 +22,12 @@ Here are some ideas to get you started:
 
 
 <details> 
-
-
-
-
 <summary>About Me</summary>
 
-     
+<div align="left">  
+
+## OBJECTIVE
+Web programming, Mobile programming, Game programming     
 
 
 </details>  
