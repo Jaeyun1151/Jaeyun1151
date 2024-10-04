@@ -67,4 +67,4 @@ Bachelor Degree of software engineering ```(09/2024 ~)``` (SKHU, Seoul)
 
 
 
-
+ 
