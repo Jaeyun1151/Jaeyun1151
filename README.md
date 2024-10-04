@@ -16,8 +16,8 @@
 Web programming, Mobile programming, Game programming     
 
 ## EDUCATION
-Bachelor Degree of computer engineering ```(09/2024 ~)``` (SKHU, Seoul)   
-Bachelor Degree of software engineering ```(09/2024 ~)``` (SKHU, Seoul) 
+Bachelor Degree of computer engineering ```(09/2024 ~)```    
+Bachelor Degree of software engineering ```(09/2024 ~)``` 
 
 ## ADDITIONAL SKILLS
 <span>
